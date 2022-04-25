@@ -4,6 +4,6 @@ En este repositorio se encuentran los proyectos desarrollados en el curso Aprend
 
 ## Proyectos
 
-### (Clon Sección Testimonios FreeCodeCamp)[./testimonios-fcc]
+### [Clon Sección Testimonios FreeCodeCamp](./testimonios-fcc)
 
-### (Contador clics)[./contador]
+### [Contador clics](./contador)
