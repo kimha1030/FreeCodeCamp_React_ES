@@ -1,0 +1,23 @@
+.boton-clic,
+.boton-reiniciar {
+  width: 15rem;
+  height: 4.5rem;
+  margin: 10px;
+  border-radius: 25px;
+  border: solid 5px white;
+  font-size: 1.3rem;
+  color: white;
+}
+
+.boton-clic {
+  background-color: salmon;
+}
+
+.boton-reiniciar {
+  background-color: cadetblue;
+}
+
+.boton-clic:hover,
+.boton-reiniciar:hover {
+  background-color: darkblue;
+}
