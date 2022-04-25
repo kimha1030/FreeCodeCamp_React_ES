@@ -7,3 +7,5 @@ En este repositorio se encuentran los proyectos desarrollados en el curso Aprend
 ### [Clon Sección Testimonios FreeCodeCamp](./testimonios-fcc)
 
 ### [Contador clics](./contador)
+
+### [Calculadora](./calculadora)
