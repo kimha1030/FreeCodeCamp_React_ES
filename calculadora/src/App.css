@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  background-color: #0a0a23;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.logo-img {
+  width: 400px;
+  margin-bottom: 5%;
+}
+
+.calculadora-contenedor {
+  width: 500px;
+  height: 700px;
+  border-radius: 5%;
+  border: 5px solid darkgray;
+  background-color: gray;
+  padding: 2rem;
+}
+
+.calculadora-teclas {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2%;
+}
