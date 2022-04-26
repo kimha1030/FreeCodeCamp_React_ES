@@ -9,3 +9,5 @@ En este repositorio se encuentran los proyectos desarrollados en el curso Aprend
 ### [Contador clics](./contador)
 
 ### [Calculadora](./calculadora)
+
+### [App Tareas](./aplicacion-tareas)
